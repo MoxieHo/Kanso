@@ -1,13 +1,13 @@
 module.exports = {
 	title: {
-		"zh-CN": "Rene Wang 的个人网站",
-		"en-US": "Rene's Official Website",
+		"zh-CN": "何墨心 的个人网站",
+		"en-US": "MoxieHo's Official Website",
 	},
 	description: {
 		"zh-CN":
-			"分享我的 Web, iOS, 游戏开发日志、3D 建模、创业经历以及生活随感。",
+			"分享我的",
 		"en-US":
-			"My experience about web, AI, iOS, game development, 3D art, start-up, and my life journal.",
+			"My experience ",
 	},
 	root: "https://rene.wang",
 	keywords: [
@@ -40,7 +40,7 @@ module.exports = {
 			{
 				title: "关于作者",
 				content:
-					"00 后 M，INFP，自由的创造者，不要叫我前端程序员/设计师/游戏工程师。🌍 中英日法粤，喜欢代码、读书、大自然。欢迎来交个朋友。",
+					"99 后 ",
 			},
 		],
 	},
